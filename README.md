@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Keinsleif&count_private=true&show_icons=true&hide_rank=true" />
+  <img align="left" src="https://github-readme-stats-theta-weld.vercel.app/api?username=Keinsleif&count_private=true&show_icons=true&hide_rank=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keinsleif" />
+  <img align="left" src="https://github-readme-stats-theta-weld.vercel.app/api/top-langs/?username=Keinsleif&count_private=true" />
 </a>
 <!--
 **Keinsleif/Keinsleif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
