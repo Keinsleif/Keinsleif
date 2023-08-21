@@ -1,5 +1,7 @@
 # I'm Keinsleif
 
+- 🏫 I'm learning Information Systems Engineering on college.
+- 🌱 I'm interested in front-end development, especially SolidJS.
 - 📫 How to reach me **mountaindull@gmail.com**
 
 ### Connect with me:
@@ -10,7 +12,7 @@
 
 #### Main Languages
 
-[![Main Languages](https://skillicons.dev/icons?i=python,go,html,js,css,processing)](https://skillicons.dev)
+[![Main Languages](https://skillicons.dev/icons?i=python,go,html,js,ts,css,processing)](https://skillicons.dev)
 
 #### My Tools
 [![My Editor](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)  
