@@ -12,7 +12,7 @@
 
 #### Main Languages
 
-[![Main Languages](https://skillicons.dev/icons?i=python,go,html,js,ts,css,processing)](https://skillicons.dev)
+[![Main Languages](https://skillicons.dev/icons?i=python,go,rust,html,js)](https://skillicons.dev)
 
 #### My Tools
 [![My Editor](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)  
@@ -20,7 +20,7 @@
 
 #### Other
 
-[![Other](https://skillicons.dev/icons?i=c,cpp,java,bootstrap,flask,nginx,raspberrypi)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=c,cpp,java,ts,css,processing,bootstrap,flask,nginx,raspberrypi)](https://skillicons.dev)
 
 ## Stats
 
