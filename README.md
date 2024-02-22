@@ -1,7 +1,7 @@
 # I'm Keinsleif
 
 - 🏫 I'm learning Information Systems Engineering on college.
-- 🌱 I'm currently interested in front-end development, especially SolidJS.
+- 🌱 I'm currently interested in embeded development using Rust.
 - 📫 How to reach me **mountaindull@gmail.com**
 
 ### Connect with me:
