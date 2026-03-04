@@ -12,7 +12,7 @@
 
 #### Main Languages
 
-[![Main Languages](https://skillicons.dev/icons?i=python,go,rust,html,js)](https://skillicons.dev)
+[![Main Languages](https://skillicons.dev/icons?i=rust,html,js,python,go)](https://skillicons.dev)
 
 #### My Tools
 [![My Editor](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)  
